@@ -1,0 +1,25 @@
+
+.doc{
+    background-image: url('../img/icons/doctors-hover.svg')
+}
+.patient{
+    background-image: url('../img/icons/patients-hover.svg')
+}
+.book{
+    background-image: url('../img/icons/book-hover.svg')
+
+}
+.sessions{
+    background-image: url('../img/icons/session-iceblue.svg')
+
+}
+.acc-settings{
+    background-image:url('../img/icons/doctors-hover.svg')
+}
+.view-acc {
+    
+    background-image: url("../img/icons/doctors-hover.svg")
+}
+.acc-delete {
+    background-image: url('../img/icons/patients-hover.svg');
+}
